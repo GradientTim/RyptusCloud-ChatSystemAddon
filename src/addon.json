@@ -1,0 +1,4 @@
+{
+  "mainClassPath": "de.ryptusmedia.ryptuscloud.addons.ChatSystemAddon",
+  "addonClassPath": "de.ryptusmedia.ryptuscloud.addons.config.ChatSystemConfig"
+}
